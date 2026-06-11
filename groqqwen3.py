@@ -4,7 +4,7 @@ import urllib.error
 import time
 
 
-API_KEY = "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"
+API_KEY = "UR_API"
 
 
 URL = "https://api.groq.com/openai/v1/chat/completions"
