@@ -1,3 +1,3 @@
 This AI WEB program is OPEN SOURCED, so everyone is allowed to build a replica of this AI WEB
 
-You can change your API to your own API or use my API provided
+You have to use your own API due to security reasons
