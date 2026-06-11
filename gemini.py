@@ -4,7 +4,7 @@ import urllib.error
 import time
 
 
-API_KEY = "AQ.Ab8RN6IZvqv9EdjrcUuZhG7x-X_V1gx_0z6wHEVT35ZWbJuFoQ"
+API_KEY = "UR_API"
 
 
 MODEL = "gemini-2.5-flash"
